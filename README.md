@@ -1,4 +1,4 @@
-# Codecademy Store
+# Clothing Store
 
 ![An animated gif showing a demo of the Codecademy store's features](./shopping-cart-demo.gif)
 
